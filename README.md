@@ -13,7 +13,7 @@
 💡 Exploring **advanced data pipelines** and cloud-based ML solutions  
 
 ---
-
+<!--
 ## 🔥 Interests  
 - ⏳ **Time Series Forecasting** — predictive models for time-dependent data
 - 🧠 **Natural Language Processing (NLP)** — text classification, sentiment analysis, and more
@@ -33,7 +33,7 @@
 **🗄️ Databases:** MySQL, NoSQL (MongoDB), PostgreSQL  
 **🤖 Machine Learning:** XGBoost, LightGBM, Logistic Regression, K-Means Clustering, SVM RBF  
 **📝 Version Control:** Git, GitHub    
-
+-->
 ---
 
 ## 📊 Stats  
