@@ -8,9 +8,9 @@
 ## 💫 About Me  
 👋 Hi, I’m **@Gautam**  
 📚 Cognitive Systems + Data Science student at **UBC Vancouver**  
-📊 Passionate about **data engineering, machine learning, and AI ethics**  
-🔍 Previously worked on **data-driven projects** in analytics and engineering  
-💡 Exploring **advanced data pipelines** and cloud-based ML solutions  
+📊 Passionate about **product, machine learning, and vibe coding**  
+🔍 Previously worked on **data-driven projects** in analytics and **hackathons**
+ 
 
 ---
 <!--
